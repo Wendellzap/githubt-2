@@ -1,0 +1,45 @@
+.menuIn {
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 122px;
+}
+
+#port {
+    top: 37px;
+    left: 140px;
+    width: 180px;
+    height: 49px;
+}
+
+#menu {
+    top: 50px;
+    left: 1228px;
+    width: 552px;
+    height: 30px;
+}
+
+#imagine {
+    top: 423px;
+    left: 140px;
+    width: 1136px;
+    height: 96px;
+}
+
+.aah {
+    top: 992px;
+    left: 1382px;
+    width: 398px;
+    height: 398px;
+}
+
+.f1 {
+    display: inline-block;
+}
+
+.redes {
+    top: 2306px;
+    left: 0px;
+    width: 1920px;
+    height: 126px;
+}

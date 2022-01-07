@@ -1,0 +1,16 @@
+article {
+    width: 200px;
+    margin: 0 auto;
+}
+.container {
+    background: red;
+
+}
+#texto1 {
+    color: #fff;
+    padding: 30px;
+}
+
+.oi {
+    background: <img src="img/luloso.jpg" alt="luloso" >;
+}
